@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="175" height="175" src="img/index.png">
+	<img width="175" height="175" src="background.jpg">
 </p>
 
 # Info
