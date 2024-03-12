@@ -5,7 +5,7 @@
 # Info
 My homepage
 
-https://kotyopuwwwwww.github.io/my-pfp/
+https://kotyopuwwwwww.github.io/my-pfp-en/
 
 
 ## Credits
